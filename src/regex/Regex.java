@@ -1,5 +1,8 @@
 package regex;
 
+/**
+ * @author Imildo Sitoe
+ * */
 public class Regex {
     public static void main(String[] args) {
         boolean e;
