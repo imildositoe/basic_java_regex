@@ -1,5 +1,8 @@
 package regex;
 
+/**
+ * @author Imildo Sitoe
+ * */
 public class Exemplos {
     /*
     * Modificadores
